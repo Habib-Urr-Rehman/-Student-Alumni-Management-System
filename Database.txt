@@ -1,0 +1,18 @@
+CREATE TABLE [dbo].[Students] (
+    [Id]      INT          IDENTITY (1, 1) NOT NULL,
+    [Roll_no] VARCHAR (50) NOT NULL,
+    [Name]    VARCHAR (50) NOT NULL,
+    [City]    VARCHAR (25) NOT NULL,
+    [Session] INT          NOT NULL,
+    [Degree]  VARCHAR (50) NOT NULL
+);
+
+
+CREATE TABLE [dbo].[Users] (
+    [Id]       INT          IDENTITY (1, 1) NOT NULL,
+    [Username] VARCHAR (50) NOT NULL,
+    [Password] VARCHAR (50) NOT NULL,
+    [Role]     VARCHAR (50) NOT NULL
+);
+
+

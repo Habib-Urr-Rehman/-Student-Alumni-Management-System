@@ -1,0 +1,152 @@
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\bin\Debug\net6.0-windows\University Management System.exe
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\bin\Debug\net6.0-windows\University Management System.deps.json
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\bin\Debug\net6.0-windows\University Management System.runtimeconfig.json
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\bin\Debug\net6.0-windows\University Management System.dll
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\bin\Debug\net6.0-windows\University Management System.pdb
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\bin\Debug\net6.0-windows\EPPlus.dll
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\bin\Debug\net6.0-windows\ExcelDataReader.dll
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\bin\Debug\net6.0-windows\ExcelDataReader.DataSet.dll
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\obj\Debug\net6.0-windows\University Management System.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\obj\Debug\net6.0-windows\AddStudentBYAdmin.g.cs
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\obj\Debug\net6.0-windows\AdminPage.g.cs
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\obj\Debug\net6.0-windows\AdminPanel.g.cs
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\obj\Debug\net6.0-windows\ClerkPage.g.cs
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\obj\Debug\net6.0-windows\ClerkPanel.g.cs
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\obj\Debug\net6.0-windows\EditStudent.g.cs
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\obj\Debug\net6.0-windows\University Management System_MarkupCompile.cache
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\obj\Debug\net6.0-windows\University Management System_MarkupCompile.lref
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\obj\Debug\net6.0-windows\AddStudentBYAdmin.baml
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\obj\Debug\net6.0-windows\AdminPage.baml
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\obj\Debug\net6.0-windows\AdminPanel.baml
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\obj\Debug\net6.0-windows\ClerkPage.baml
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\obj\Debug\net6.0-windows\ClerkPanel.baml
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\obj\Debug\net6.0-windows\EditStudent.baml
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\obj\Debug\net6.0-windows\University Management System.g.resources
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\obj\Debug\net6.0-windows\University Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\obj\Debug\net6.0-windows\University Management System.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\obj\Debug\net6.0-windows\University Management System.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\obj\Debug\net6.0-windows\University Management System.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\obj\Debug\net6.0-windows\University Management System.csproj.CopyComplete
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\obj\Debug\net6.0-windows\University Management System.dll
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\obj\Debug\net6.0-windows\refint\University Management System.dll
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\obj\Debug\net6.0-windows\University Management System.pdb
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\obj\Debug\net6.0-windows\University Management System.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\obj\Debug\net6.0-windows\ref\University Management System.dll
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\obj\Debug\net6.0-windows\SuperAdminPanel.g.cs
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\obj\Debug\net6.0-windows\SuperAdminPanel.baml
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\obj\Debug\net6.0-windows\ManageUsers.g.cs
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\obj\Debug\net6.0-windows\ManageUsers.baml
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\obj\Debug\net6.0-windows\Adduser.g.cs
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\obj\Debug\net6.0-windows\Adduser.baml
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\obj\Debug\net6.0-windows\EditUsers.g.cs
+C:\Users\PC\OneDrive\Desktop\EAD Project\University Management System\obj\Debug\net6.0-windows\EditUsers.baml
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\bin\Debug\net6.0-windows\University Management System.exe
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\bin\Debug\net6.0-windows\University Management System.deps.json
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\bin\Debug\net6.0-windows\University Management System.runtimeconfig.json
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\bin\Debug\net6.0-windows\University Management System.dll
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\bin\Debug\net6.0-windows\University Management System.pdb
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\bin\Debug\net6.0-windows\EPPlus.dll
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\bin\Debug\net6.0-windows\ExcelDataReader.dll
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\bin\Debug\net6.0-windows\ExcelDataReader.DataSet.dll
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\bin\Debug\net6.0-windows\Humanizer.dll
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\obj\Debug\net6.0-windows\University Management System.csproj.AssemblyReference.cache
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\obj\Debug\net6.0-windows\AddStudentBYAdmin.g.cs
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\obj\Debug\net6.0-windows\Adduser.g.cs
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\obj\Debug\net6.0-windows\AdminPage.g.cs
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\obj\Debug\net6.0-windows\AdminPanel.g.cs
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\obj\Debug\net6.0-windows\ClerkPage.g.cs
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\obj\Debug\net6.0-windows\ClerkPanel.g.cs
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\obj\Debug\net6.0-windows\EditStudent.g.cs
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\obj\Debug\net6.0-windows\EditUsers.g.cs
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\obj\Debug\net6.0-windows\ManageUsers.g.cs
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\obj\Debug\net6.0-windows\SuperAdminPanel.g.cs
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\obj\Debug\net6.0-windows\App.g.cs
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\obj\Debug\net6.0-windows\University Management System_MarkupCompile.cache
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\obj\Debug\net6.0-windows\University Management System_MarkupCompile.lref
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\obj\Debug\net6.0-windows\AddStudentBYAdmin.baml
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\obj\Debug\net6.0-windows\Adduser.baml
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\obj\Debug\net6.0-windows\AdminPage.baml
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\obj\Debug\net6.0-windows\AdminPanel.baml
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\obj\Debug\net6.0-windows\ClerkPage.baml
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\obj\Debug\net6.0-windows\ClerkPanel.baml
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\obj\Debug\net6.0-windows\EditStudent.baml
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\obj\Debug\net6.0-windows\EditUsers.baml
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\obj\Debug\net6.0-windows\MainWindow.baml
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\obj\Debug\net6.0-windows\ManageUsers.baml
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\obj\Debug\net6.0-windows\SuperAdminPanel.baml
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\obj\Debug\net6.0-windows\University Management System.g.resources
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\obj\Debug\net6.0-windows\University Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\obj\Debug\net6.0-windows\University Management System.AssemblyInfoInputs.cache
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\obj\Debug\net6.0-windows\University Management System.AssemblyInfo.cs
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\obj\Debug\net6.0-windows\University Management System.csproj.CoreCompileInputs.cache
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\obj\Debug\net6.0-windows\University Management System.csproj.CopyComplete
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\obj\Debug\net6.0-windows\University Management System.dll
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\obj\Debug\net6.0-windows\refint\University Management System.dll
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\obj\Debug\net6.0-windows\University Management System.pdb
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\obj\Debug\net6.0-windows\University Management System.genruntimeconfig.cache
+D:\ALL COURSES\6th semester\EAD\PROJECTS\EAD Project\University Management System\obj\Debug\net6.0-windows\ref\University Management System.dll

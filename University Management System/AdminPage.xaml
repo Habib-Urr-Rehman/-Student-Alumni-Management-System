@@ -1,0 +1,124 @@
+﻿<Page x:Class="University_Management_System.AdminPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:University_Management_System"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="AdminPage">
+
+    <Grid>
+
+
+        <Grid.RowDefinitions>
+
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+
+        </Grid.RowDefinitions>
+        <TextBlock Grid.Row="0" Text="Manage Student" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="29" FontWeight="Bold" Margin="0" FontFamily="Algerian"/>
+        <StackPanel Orientation="Horizontal" Grid.Row="1" Margin="20,11,22,10" HorizontalAlignment="Left" >
+            <TextBlock Text="Filter by City:" VerticalAlignment="Center"/>
+            <ComboBox Name="cityFilterComboBox" Width="100" Margin="5" SelectionChanged="FilterComboBox_SelectionChanged"/>
+        </StackPanel>
+
+
+        <StackPanel Orientation="Horizontal" Grid.Row="1" Margin="20,11,22,10" HorizontalAlignment="Center" >
+            <TextBlock Text="Filter by Session:" VerticalAlignment="Center"/>
+            <ComboBox Name="sessionFilterComboBox" Width="100" Margin="5" SelectionChanged="FilterComboBox_SelectionChanged"/>
+        </StackPanel>
+
+
+        <StackPanel Orientation="Horizontal" Grid.Row="1" Margin="20,11,22,10" HorizontalAlignment="Right" >
+            <TextBlock Text="Filter by Degree:" VerticalAlignment="Center"/>
+            <ComboBox Name="degreeFilterComboBox" Width="100" Margin="5" SelectionChanged="FilterComboBox_SelectionChanged"/>
+        </StackPanel>
+
+
+        <StackPanel Orientation="Horizontal" Grid.Row="2" Margin="20,11,22,10" HorizontalAlignment="Left" >
+            <TextBlock Name="rll" Text="BYName/Roll:" VerticalAlignment="Center"/>
+            <TextBox Name="ByNameAndRoll" Width="100" Margin="5"/>
+            <Button Content="Search" VerticalAlignment="Top" Click="Searchbyroll" Height="20" Width="70" Margin="11,6,0,0" />
+        </StackPanel>
+
+
+        <Button Content="Logout" Grid.Row="2" Width="70" Margin="0,6,54,23" HorizontalAlignment="Right" Click="Logout" />
+
+
+
+
+
+        <!--<StackPanel Orientation="Horizontal" Grid.Row="2" Margin="1,33,1,1" HorizontalAlignment="Left"  >
+            <TextBlock Text="SearchbyRoll:" VerticalAlignment="Center"/>
+            <TextBox Name="Search1" Width="100" Margin="5"/>
+            <Border CornerRadius="5" Background="#007ACC" Margin="5">
+                <Button   Click="Searchroll" Content="Search" Width="50" Foreground="white" Background="#007ACC" FontFamily="Algerian" />
+            </Border>
+        </StackPanel>
+
+
+
+        <StackPanel Orientation="Horizontal" Grid.Row="2" Margin="1,33,1,1" HorizontalAlignment="Right"  >
+            <TextBlock Text="SearchbyName:" VerticalAlignment="Center"/>
+            <TextBox Name="Searc" Width="100" Margin="5"/>
+            <Border CornerRadius="5" Background="#007ACC" Margin="5">
+                <Button   Click="Searchname" Content="Search" Width="50" Foreground="white" Background="#007ACC" FontFamily="Algerian" />
+            </Border>
+        </StackPanel>-->
+
+        <DataGrid Name="mygridadmin" AutoGenerateColumns="False" CanUserAddRows="False" Grid.Row="3" Margin="1,33,1,1">
+
+            <DataGrid.Columns>
+                <DataGridTextColumn Width="*" Header="Roll_No" Binding="{Binding RollNo}"/>
+                <DataGridTextColumn Width="*" Header="Name" Binding="{Binding Name}"/>
+                <DataGridTextColumn Width="*" Header="City" Binding="{Binding City}"/>
+                <DataGridTextColumn Width="*" Header="Session" Binding="{Binding Session}"/>
+                <DataGridTextColumn Width="*" Header="Degree" Binding="{Binding Degree}"/>
+
+                <DataGridTemplateColumn Header="Edit" Width="100">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="Edit" Click="Edi"></Button>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+                <DataGridTemplateColumn Header="Delete" Width="100">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="Delete" Click="Del"></Button>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <Button Grid.Row="4" Content="ADD USER" Margin="20,11,22,10" HorizontalAlignment="Center" VerticalAlignment="Top" Width="150" Height="50" Click="Add" />
+        <Button Grid.Row="4" Content="Import Excel File" Margin="20,11,22,10" HorizontalAlignment="Right" VerticalAlignment="Top" Width="150" Height="50" Click="Import" />
+
+        <Button Grid.Row="4" Content="Export Excel File" Margin="20,0,0,10" HorizontalAlignment="Left" Width="150" Click="Export" Height="50" VerticalAlignment="Bottom" />
+
+
+
+
+
+
+
+
+
+
+
+    </Grid>
+
+
+
+</Page>
+
+    
+    
+    
+    

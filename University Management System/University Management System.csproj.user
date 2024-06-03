@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="AddStudentBYAdmin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Adduser.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AdminPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AdminPanel.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ClerkPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ClerkPanel.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="EditStudent.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="EditUsers.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ManageUsers.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="SuperAdminPanel.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="AddStudentBYAdmin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Adduser.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AdminPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AdminPanel.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ClerkPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ClerkPanel.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="EditStudent.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="EditUsers.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ManageUsers.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="SuperAdminPanel.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
